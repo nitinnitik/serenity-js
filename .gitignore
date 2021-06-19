@@ -11,3 +11,4 @@ _book
 target/
 *.log
 packages/*/CHANGELOG.md
+*.orig
