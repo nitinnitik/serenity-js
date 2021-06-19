@@ -1,1 +1,3 @@
-changes for rebase example
+i am changing same file on master branch
+this is so that it will result in 
+rebase being fail
